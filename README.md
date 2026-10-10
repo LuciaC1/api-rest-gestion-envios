@@ -1,4 +1,3 @@
-# 2023-Prog1-TrabajoIntegrador-Copes_Duelli_Martinez
 # 📦 Sistema de Gestión de Compras y Envíos  
 
 Este proyecto consiste en una **Web API REST** y un conjunto de páginas **HTML** para la gestión de productos, clientes, compras y envíos de una empresa localizada en Rafaela, con cobertura a todo el país.  
